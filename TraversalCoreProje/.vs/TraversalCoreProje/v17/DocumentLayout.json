@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\furkan bayram\\source\\repos\\traversalcoreproje\\traversalcoreproje\\models\\usersigninviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\models\\usersigninviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\furkan bayram\\source\\repos\\traversalcoreproje\\traversalcoreproje\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\furkan bayram\\source\\repos\\traversalcoreproje\\traversalcoreproje\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\furkan bayram\\source\\repos\\traversalcoreproje\\traversalcoreproje\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\furkan bayram\\source\\repos\\traversalcoreproje\\traversalcoreproje\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|c:\\users\\furkan bayram\\source\\repos\\traversalcoreproje\\traversalcoreproje\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB157E4-7DEB-42C0-AFDF-8F49F6F45FF7}|TraversalCoreProje\\TraversalCoreProje.csproj|solutionrelative:traversalcoreproje\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Models\\UserSignInViewModel.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Models\\UserSignInViewModel.cs",
+              "ToolTip": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Models\\UserSignInViewModel.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Models\\UserSignInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:25:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Views\\Destination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "TraversalCoreProje\\Views\\Destination\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:45:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Controllers\\DestinationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:36:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "TraversalCoreProje\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T19:33:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:31:57.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Startup.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProje\\Startup.cs",
+              "ToolTip": "C:\\Users\\FURKAN BAYRAM\\source\\repos\\TraversalCoreProje\\TraversalCoreProje\\Startup.cs",
+              "RelativeToolTip": "TraversalCoreProje\\Startup.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:30:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
